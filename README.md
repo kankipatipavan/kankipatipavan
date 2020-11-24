@@ -4,7 +4,7 @@
 
 ### Hi there
 
-I am Kankipati Pavan Kumar Varma.
+I am Kankipati Pavan Kumar Varma. 
 
 
 
@@ -14,7 +14,7 @@ I am Kankipati Pavan Kumar Varma.
 
 - 👯 I’m looking to collaborate on any **AI** project.
 
-- 🤔 I’m looking for an opportunity to show my skills and work.
+- :relaxed: I’m looking for an opportunity to show my skills and work.
 
 - 💬 Ask me about Python, R Studio, Hadoop, ML.
 
