@@ -4,7 +4,7 @@
 
 ### Hi there
 
-I am Kankipati Pavan. My main interest lies in Machine Learning and Computer vision. I also have basic knowledge of Tableau and Docker. I am always curious to learn something new.
+I am Kankipati Pavan Kumar Varma.
 
 
 
@@ -12,15 +12,11 @@ I am Kankipati Pavan. My main interest lies in Machine Learning and Computer vis
 
 - 🌱 I’m currently learning **best practices for ML** and **Big Data**.
 
-- 👯 I’m looking to collaborate on any **AI** or **Web Development** project.
+- 👯 I’m looking to collaborate on any **AI** project.
 
-- 🤔 I’m looking for help with Docker deployment.
+- 🤔 I’m looking for an opportunity to show my skills and work.
 
-- 💬 Ask me about OpenCV, Tensorflow, chatbots or ML.
+- 💬 Ask me about Python, R Studio, Hadoop, ML.
 
-- 📫 ***How to reach me***: My [portfolio link](http://arpit-dwivedi.me/) or contact me directly on this mail [8arpitdwivedi798@gmail.com](mailto:8arpitdwivedi798@gmail.com).
-
-- 😄 ***Pronouns:*** You can give one.
-
-- ⚡ ***Fun fact:*** I can work without music. 
+- 📫 ***How to reach me***: My contact mail [pavankumar.kpkv@gmail.com](mailto:pavankumar.kpkv@gmail.com).
 
