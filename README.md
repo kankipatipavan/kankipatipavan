@@ -1,7 +1,6 @@
 <!--
 **kankipatipavan/kankipatipavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-###
-- 🔭 I’m currently working as Intern in Devincept
+### 🔭 I’m currently working as Intern in Devincept
 - 🌱 I’m currently learning Artificial Intelligence
 - 👯 I’m looking to collaborate with Devincept
 - 🤔 I’m looking for help with finding a job on Artificial Intelligence
