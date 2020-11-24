@@ -6,3 +6,10 @@
 - 🤔 I’m looking for help with finding a job on Artificial Intelligence
 - 💬 Ask me about Artificial Intelligence
 - 📫 How to reach me: My [LinkedIN](https://www.linkedin.com/in/k-pavan-kumar-varma-252a5b124/)
+* Unordered
+
+1. Ordered
+
+* Nested
+   1. ordered inside.
+      * Unordered inside
