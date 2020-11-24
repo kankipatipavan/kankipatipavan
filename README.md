@@ -1,6 +1,6 @@
 # Kankipati Pavan
 
-[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/k-pavan-kumar-varma-252a5b124/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![facebook](https://github.com/kankipatipavan/Logos/blob/main/Logos/Images/facebook%20logo.png)](https://www.facebook.com/profile.php?id=100003890107739)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![kaggle](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/kaggle.png)](https://www.kaggle.com/pavankumarvarma000)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:pavankumar.kpkv@gmail.com)
+[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/k-pavan-kumar-varma-252a5b124/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![facebook](https://github.com/kankipatipavan/Logos/blob/main/Logos/Images/Facebook%20Logo.jpg)](https://www.facebook.com/profile.php?id=100003890107739)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![kaggle](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/kaggle.png)](https://www.kaggle.com/pavankumarvarma000)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:pavankumar.kpkv@gmail.com)
 
 ### Hi there 👋
 
