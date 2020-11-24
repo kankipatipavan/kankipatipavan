@@ -18,5 +18,5 @@ I am Kankipati Pavan Kumar Varma.
 
 - :speech_balloon: Ask me about Python, R Studio, Hadoop, ML.
 
-- :email: ***Reach me out***: mail [pavankumar.kpkv@gmail.com](mailto:pavankumar.kpkv@gmail.com).
+- :email: ***Reach me out***: through mail [pavankumar.kpkv@gmail.com](mailto:pavankumar.kpkv@gmail.com).
 
