@@ -1,15 +1,26 @@
-<!--
-**kankipatipavan/kankipatipavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### 🔭 I’m currently working as Intern in Devincept
-- 🌱 I’m currently learning Artificial Intelligence
-- 👯 I’m looking to collaborate with Devincept
-- 🤔 I’m looking for help with finding a job on Artificial Intelligence
-- 💬 Ask me about Artificial Intelligence
-- 📫 How to reach me: My [LinkedIN](https://www.linkedin.com/in/k-pavan-kumar-varma-252a5b124/)
-* Unordered
+# Arpit Dwivedi
 
-1. Ordered
+[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/dwivedi-arpit/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![twitter](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/ttt.png)](https://twitter.com/sdwivediarpit)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![kaggle](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/kaggle.png)](https://www.kaggle.com/arpitdw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:8arpitdwivedi798@gmail.com)
 
-* Nested
-   1. ordered inside.
-      * Unordered inside
+### Hi there 👋
+
+I am Arpit Dwivedi. My main interest lies in Machine Learning and Computer vision. I also have basic knowledge of Tableau and Docker. I am always curious to learn something new.
+
+
+
+- 🔭 I’m currently working on a Computer Vision project.
+
+- 🌱 I’m currently learning **best practices for ML** and **Big Data**.
+
+- 👯 I’m looking to collaborate on any **AI** or **Web Development** project.
+
+- 🤔 I’m looking for help with Docker deployment.
+
+- 💬 Ask me about OpenCV, Tensorflow, chatbots or ML.
+
+- 📫 ***How to reach me***: My [portfolio link](http://arpit-dwivedi.me/) or contact me directly on this mail [8arpitdwivedi798@gmail.com](mailto:8arpitdwivedi798@gmail.com).
+
+- 😄 ***Pronouns:*** You can give one.
+
+- ⚡ ***Fun fact:*** I can work without music. 
+
