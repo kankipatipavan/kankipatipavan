@@ -8,15 +8,15 @@ I am Kankipati Pavan Kumar Varma.
 
 
 
-- 🔭 I’m currently working on a Computer Vision project.
+- :raising_hand: I’m currently working on a Computer Vision project.
 
-- 🌱 I’m currently learning **best practices for ML** and **Big Data**.
+- :paw_prints: I’m currently learning **best practices for ML** and **Big Data**.
 
-- 👯 I’m looking to collaborate on any **AI** project.
+- :open_hands: I’m looking to collaborate on any **AI** project.
 
 - :relaxed: I’m looking for an opportunity to show my skills and work.
 
-- 💬 Ask me about Python, R Studio, Hadoop, ML.
+- :speech_balloon: Ask me about Python, R Studio, Hadoop, ML.
 
-- 📫 ***How to reach me***: My contact mail [pavankumar.kpkv@gmail.com](mailto:pavankumar.kpkv@gmail.com).
+- :email: ***How to reach me***: My contact mail [pavankumar.kpkv@gmail.com](mailto:pavankumar.kpkv@gmail.com).
 
