@@ -4,7 +4,7 @@
 
 ### Hi there
 
-I am Kankipati Pavan Kumar Varma. I'm good at python, R, Tableau and ML and deep learning.
+I am Kankipati Pavan Kumar Varma. I'm good at python, R, Tableau, ML and deep learning.
 
 
 
