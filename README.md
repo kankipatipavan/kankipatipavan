@@ -19,5 +19,3 @@ I am Kankipati Pavan Kumar Varma. I'm good at python, R, Tableau, ML and deep le
 - :speech_balloon: Ask me about Python, R Studio, Hadoop, ML.
 
 - :email: ***Reach me out***: through mail [pavankumar.kpkv@gmail.com](mailto:pavankumar.kpkv@gmail.com).
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kankipatipavan&show_icons=true&text_color=daf7dc&bg_color=151515" alt="kankipatipavan" /></p> 
